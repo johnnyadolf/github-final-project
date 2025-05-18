@@ -7,3 +7,5 @@ Input:
 
 Output
   *simple interest = p*t*r
+
+2020 XYZ, Inc.
